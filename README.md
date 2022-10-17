@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Huarastaca
+- 👀 I’m interested in creating: games, art, mobile apps, websites.
+- 🌱 I’m currently learning Computer Science
+- 💞️ I’m looking to collaborate on Gaming Design and Creation
+- 📫 How to reach me (my name but with a "@gmail.com" at the front
+
+- 👋 OI CARALHO!, Me chamo Alberto HUARASTACA Taveira Magalhães
+- 👀 Eu estou interessado em criar: jogos, arte, aplicativos mobile, websites.
+- 🌱 Eu estou atualmente aprendendo e Estudando Ciencias da Computação
+- 💞️ Estou procurando em Colaborar na Criação e Design de jogos.
+- 📫 Como me contatar?! (meu sobrenome com um "@gmail.com" logo depois)
