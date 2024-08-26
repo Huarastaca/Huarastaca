@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Gaming Design and Creation
 - 📫 How to reach me (huarastaca@gmail.com)
-- 👋 OI CARALHO!, Me chamo Alberto HUARASTACA Taveira Magalhães
+- 👋 OLA, Me chamo Alberto HUARASTACA Taveira Magalhães
 - 👀 Eu estou interessado em criar: jogos, arte, aplicativos mobile, websites.
-- 🌱 Eu estou atualmente aprendendo e Estudando Ciencias da Computação
+- 🌱 Eu estou atualmente cursando Ciencias da Computação
 - 💞️ Estou procurando em Colaborar na Criação e Design de jogos.
 - 📫 Como me contatar?! (huarastaca@gmail.com)
